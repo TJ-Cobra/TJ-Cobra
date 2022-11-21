@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TJ-Cobra
-- 👀 I’m interested in programming, bioinformatics, adn automation
+- 👀 I’m interested in programming, bioinformatics, and automation
 - 🌱 I’m currently learning intermediate python and refreshing matlab skills
 - 💞️ I’m looking to collaborate on challenges such as the Google Code Jam and similar projects
 - 📫 How to reach me ...
